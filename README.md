@@ -1,7 +1,17 @@
-<img src="[https://dribbble.com/shots/5574718-Web-development-animation/attachments/10942166?mode=media](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5574718-Web-development-animation&psig=AOvVaw1uLQ9cQkRgJjeNj3U9tF63&ust=1717263344486000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDjyM62uIYDFQAAAAAdAAAAABAE)" height="500">
+<img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-4895309-4127373.mp4" height="400" width="100%">
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">I'm a passionate Frontend Developer currently in the learning phase. Welcome to my GitHub profile.</h3>
 <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" width="400">
+- 🔭 I’m currently working on **Attendance Management System**
+
+- 🌱 I’m currently learning **React.js , Node.js**
+
+- 💬 Ask me about **JavaScript, Php**
+
+- 📫 How to reach me **sahillohan12@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-lohan-594b2a1b7/?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-lohan-594b2a1b7/?originalsubdomain=in" height="30" width="40" /></a>
