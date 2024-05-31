@@ -1,3 +1,4 @@
+<img src="https://dribbble.com/shots/5574718-Web-development-animation/attachments/10942166?mode=media" height="500">
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">I'm a passionate Frontend Developer currently in the learning phase. Welcome to my GitHub profile.</h3>
 <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" width="400">
