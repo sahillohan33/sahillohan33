@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Attendance Management System**
 
-- 🌱 I’m currently learning **React.js , Node.js**
+- 🌱 I’m currently learning **Java,JDBC,JSP,Spring**
 
 - 💬 Ask me about **JavaScript, Php**
 
