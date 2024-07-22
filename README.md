@@ -16,7 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahil-lohan-594b2a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-lohan-594b2a1b7" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sahil-lohan-594b2a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="sahil-lohan-594b2a1b7" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sahillohan08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="sahil-lohan-594b2a1b7" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/sahil.lohan.505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="sahil-lohan-594b2a1b7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
